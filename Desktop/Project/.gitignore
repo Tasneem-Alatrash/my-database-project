@@ -1,0 +1,16 @@
+# Backend
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.db
+backend/resort_ai.db
+backend/uvicorn.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
